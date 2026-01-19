@@ -4,7 +4,7 @@ title: Publicar en GitHub Pages
 nav_order: 2
 ---
 
-# Publicar tu sitio en GitHub Pages (solo GitHub Pages)
+# Publicar sitio en GitHub Pages
 
 En este curso vamos a publicar tu documentación como un **sitio web** usando:
 
