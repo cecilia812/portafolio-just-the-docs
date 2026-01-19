@@ -424,4 +424,4 @@ Y debajo, tu contenido:
 
 ## Siguiente sección
 
-[Navegación y menú](04-navegacion.md)
+[Estilos y personalización visual](04-estilos.md)
