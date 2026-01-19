@@ -143,11 +143,11 @@ Ejemplo (cómo se ve):
 Guarda el archivo en `assets/files/` y enlaza así:
 
 ```md
-[Descargar hoja de datos](assets/files/datasheet-sensor.pdf)
+[Descargar hoja de datos](assets/files/calendario.pdf)
 ```
 
 Ejemplo (cómo se ve):  
-[Descargar hoja de datos](assets/files/datasheet-sensor.pdf)
+[Descargar hoja de datos](assets/files/calendario.pdf
 
 ### Enlace externo
 
@@ -350,48 +350,10 @@ Ejemplo (cómo se ve):
 
 ---
 
----
-
-## 11) Callouts (notas, advertencias, importante)
-
-Just the Docs soporta callouts con clases.
-
-Código:
-
-```md
-{: .note }
-Nota: esto es un recordatorio.
-
-{: .warning }
-Advertencia: cuidado con esto.
-
-{: .important }
-Importante: esto es crítico para que funcione.
-
-{: .new }
-Nuevo: esto se agregó recientemente.
-```
-
-Ejemplos (cómo se ve):
-
-{: .note }
-Nota: esto es un recordatorio.
-
-{: .warning }
-Advertencia: cuidado con esto.
-
-{: .important }
-Importante: esto es crítico para que funcione.
-
-{: .new }
-Nuevo: esto se agregó recientemente.
-
-{: .note }
-Nota: si no aparecen con estilo, revisa que el tema sea Just the Docs y que el sitio se esté construyendo correctamente.
 
 ---
 
-## 12) Bloques colapsables (útil para “solución” o “detalle”)
+## 11) Bloques colapsables (útil para “solución” o “detalle”)
 
 Puedes usar HTML nativo.
 
@@ -415,7 +377,7 @@ Ejemplo (cómo se ve):
 
 ---
 
-## 13) Plantilla rápida para una página del curso
+## 12) Plantilla rápida para una página del curso
 
 Copia y adapta.
 
